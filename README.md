@@ -132,7 +132,7 @@ pytest -q tests.py
 
 ---
 
-## Twórca projektu
+## Twórca
 
 
 <table align="center">
